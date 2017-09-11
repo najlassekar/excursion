@@ -1,0 +1,11 @@
+*{
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+}
